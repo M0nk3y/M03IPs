@@ -23,7 +23,11 @@ Track Preminer performance - inputs and output totals for given time period to g
 API and widget development helps promote industry creativity and further adoption of m0nk3y by allowing creators to create more easily. It would be beneficial to the community to track preminers and m0nk3y tokens on a website. In order to do so, an API or widget needs to be created. With API and widgets, the community can create informative websites about m0nk3y tokens and preminers with ease.
 
 ## Implementations
-TBD
+Get balance of ico preminer
+
+
+https://api.etherest.io:8080/v1/main/0x30765406d51091ed78ff13c107731daf3be5ef16/balanceOf/0x73122C1b5DAE1E0b900460a96E1F05b8B1A433ab/
+
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
