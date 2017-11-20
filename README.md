@@ -2,7 +2,7 @@
 M0nk3y Improvement Proposals - Decentralized Hedge Fund Cryptoeconomics, Community, Collaboration, Coeval
 
 # Contributing
-First review [M03IP-1](M03IPs/m03ip-1.md). Then clone the repository and add your M03IP to it. There is a [template M03IP here](m03ip-X.md). Then submit a Pull Request to M0nk3y's [M03IPs repository](https://github.com/M0nk3y/M03IPs).
+First review [M03IP-1](m03ip-1.md). Then clone the repository and add your M03IP to it. There is a [template M03IP here](m03ip-X.md). Then submit a Pull Request to M0nk3y's [M03IPs repository](https://github.com/M0nk3y/M03IPs).
 
 # M03IP status terms
 * **Draft** - a M03IP that is open for consideration
