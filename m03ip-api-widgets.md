@@ -24,10 +24,52 @@ API and widget development helps promote industry creativity and further adoptio
 
 ## Implementations
 Get balance of ico preminer
-
-
 https://api.etherest.io:8080/v1/main/0x30765406d51091ed78ff13c107731daf3be5ef16/balanceOf/0x73122C1b5DAE1E0b900460a96E1F05b8B1A433ab/
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>topham sucks at javascript</title>
+
+    <script type="text/javascript">
+        
+        
+    function div(num) {
+        for (var i =0; i < 18; i++)
+        {
+            num = num / 10;
+        }
+        return num;
+    }
+
+    var xhr = new XMLHttpRequest();
+
+    
+    function getbalance(){
+        
+        
+        xhr.open("GET", "https://api.etherest.io:8080/v1/main/0x30765406d51091ed78ff13c107731daf3be5ef16/balanceOf/0x73122C1b5DAE1E0b900460a96E1F05b8B1A433ab/", true);
+        xhr.setRequestHeader("Content-type", "application/json");
+        xhr.send();
+        
+        xhr.onreadystatechange = setbalance;
+        
+    }
+       
+    function setbalance(e) {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+             
+             var response = JSON.parse(xhr.responseText);
+             document.getElementById("lol").innerText = div(Number(response.response));
+        }
+      }
+             
+        </script>
+    </head>
+    <body onload="getbalance()">
+    <div id="lol">lol</div>
+    </body>
+</html>
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
