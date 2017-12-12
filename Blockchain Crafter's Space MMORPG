@@ -1,0 +1,105 @@
+Blockchain Crafter's MMORPG
+
+-------------------------------------------
+Goals 
+1) Introduce mmorpg gaming to the blockchain and inspire a new generation to look to the cosmos
+2) Funding the planet wide goal of making it to become a type 1 civilization, then onwards to type 2, then 3 and beyond. 
+3) Create an over abundance of creativity on the blockchain
+4) give everyone the tools to add to the blockchain mmorpg gaming universe as they wish
+5) encourage players to create things the developers would never think of, adding their own little bit to the game world
+-------------------------------------------
+
+MMORPG economy plans to help fund these planet-wide research goals and makes no promise of returns:
+
+Further dev of the mmorpg space game/economy
+Carbon nanotube research development of space elevator
+Asteroid mining research and dev
+Orbital solar panels/batteries Tech
+Terranium Research (hollowed out asteroids, rotated to similuate gravity, and filled with oxygen and water to re-create earth-like environment for long space travels.)
+Space X/ Virgin galactic / NASA / other independent space agencies
+
+-------------------------------------------
+
+Blockchain MMORPG Game Concepts
+
+Crafting
+The Forge - Players would be able to craft their own items using Proof of Value (PoV) gateways that allow token to token transfers at the gateway programer's discretion of rates. Proof of Value tech could be further developed to allow players to create complex items by sending multiple tokens each representing materials to a forge and then after each token requirement was met, it would forge/mint a new item with higher value in the mmorpg universe.
+
+Recyclers - Forge PoV gateways would also have the ability to run in reverse. Complex materials could be broken down into the basic materials required to build them. 
+
+Items/tokens
+Players could create their own tokens and then mint them in their own gateway with their own recipes if desired, the only limit being what combination you can think of, since you could program the input and output (within certain natural laws of the gaming mmorpg universe). All items could be player created, the cost of creating would take some time to value mine up to since you would start with a low mining level
+
+Mining Level
+Based off the highest value of item in your inventory/wallet. An alterntaive would be to use the age or the block # of token creation (is this available for minted tokens?)
+
+Worldwide Game Events Example
+A week or two after launch, the worldwide event of building the space elevator would begin. Players would need to mine materials and bring them to a forge to create carbon nanotubes. Once we had enough carbon nanotubes, they could be created into a 2 and a half earth long elevator that would bring us to geosynchronous elevation. On the space side of the elevator, you would have access to higher level materials and higher quality forges.
+
+Inventory
+The idea of your wallet as your 'Inventory' (first a backpack, then a spaceship, then a terranium, then planet, increasingly larger ) 'spaceship' for the token game
+
+Access Token- Permission based access
+Wallet check for Space Elevator. Every time the space elevator is used to transfer from earth to space or vice versa, one space elevator token is consumed.
+
+Vendors/players 
+Real life people who purchase tokens and bundle them and resell them as space ship packages or starter packages.
+
+Exchanges
+Can buy materials off exchange or they can be value mined over time. Raw Asteroid Ore is processed to metals. Metals can be combined with other items to craft a spaceship. 
+
+Expansions
+The game would continue across the solar system, and then across the galaxy, and universe. 
+
+Interactive interfaces for smart contracts
+The game would incorporate a series of websites. The websites would act as an interface for the smart contract and allow interaction with the blockchain through graphics and images in a fun and meaningful way. 
+
+Website for the Asteroid Field (where you would dock, checked for mining lazer, then receive ore over time.)
+
+Website for space elevator - this is the gateway between the earth universe and the space universe. Scrolling interactive website.
+
+-------------------------------------------
+
+Concepts Brainstorm: 
+
+Depreciating tokens based on time - (these are burned in order to travel... not sure on how to solve the 'distance' problem yet. maybe trade distance units vs gas on exchange? Trade 5 gas for 1 AU unit to be traveled. Holding 1 AU units in your wallet lets you travel from earth to mars. OR just have FUEL in your wallet (spaceship inventory) and FUEL depreciates over time. But then if you buy FUEL and don't travel it could just just disappear while you are AFK on the launchpad... that part of idea not solved yet)
+^^^maybe GAS from ethereum can be used to travel. Spent gas = distance traveled?
+
+Combat NEEDS WORK: RNG Dice roll tokens based off block # randomization: example: craft an item and then it gets a flat roll modifier- lazers +25 roll modifier x rng = dps value. 
+
+Pre-configured wallet configurations/set-ups and possible market fighting:
+Sir do you have the keys? yes here are the keys to the x-176 fighter wallet.
+wallets could 'fight' on the market somehow? wallet loaded with 100,000 red lazers, others are 100,000 green lazers, fight by trading on exchange, goal to obtain more of the other factions laser, or to hit certain price points within a certain amount of time. 
+
+-------------------------------------------
+
+Admin/player Tools for gameplay 
+- Lalena Token Splitter for erc20 airdrop (proposal needs to be made)
+-BitDegree courses on space engineering (proposal needs to be made)
+-Proof of Value (PoV) mining (and the reverse) for crafting (many gateways will need to be created to do this)
+-Proof of Time (PoT) reward for time spent on website, token airdropped to wallet after certain time interval
+-Wallet Access Token Check - a way to query if a wallet has a specific token. If so, then something happens.
+-tokenization of ingame items for external trade on earth exchange and space exchange.
+
+-------------------------------------------
+
+Original Gameplay/Storyboard/Roadmap Ramblings
+
+Start the game by buying a token on earth called Linger Coin 2.0, the token used for the population of earth. 
+
+Trade Linger Coin on the market until you have enough to buy some Space Elevator tickets. 
+
+Once you have access to the space elevator (by holding the Space ELevator access token in your wallet), you can now transport materials from earth to space - there may be a market for this earth exchange to space exchange arbitrage?
+
+Once in space, you can buy a spaceship on top of the elevator. Can buy power for the spaceship with Orbital Solar panels, a re-usable but slower method of transportation, or you can use Partons Power Particles and a rocket engine, (faster travel but resources are burned and need re-fueling). 
+
+Once ship is powered up and equipped (sensors, extra boosters, navigation maps -these will be tokens within a wallet 'invetory' some of these resources will drain over time as used such as fuel, some will be 1 time purchase such as a mining sensor or mining laser)
+
+Spaceship is loaded and burning fuel , now you go to the asteroid belt and mine resources there and load up raw asteroid belt, then return to space elevator, deposit it or sell it for space currency or trade for other materials. Can use POV mining to mine asteroid belt into ore, ore into metal, metal into spacehsip
+
+Over time, EXCREMENT will fill up in your inventory. As you travel space, you poop and pee, and this adds up in your wallet. You need to get rid of this at certain space stations, or purchase a module that will take your poop and pee and turn it into water or engine power. 
+
+-------------------------------------------
+
+
+
